@@ -1,0 +1,102 @@
+{
+    "Goku": {
+        "Value": 1219.4377909296813,
+        "Number of wins": 6,
+        "Number of matches": 8
+    },
+    "Ariana Grande": {
+        "Value": 1158.1478413180346,
+        "Number of wins": 0,
+        "Number of matches": 9
+    },
+    "Rock": {
+        "Value": 1166.710154615645,
+        "Number of wins": 1,
+        "Number of matches": 9
+    },
+    "Cat": {
+        "Value": 1204.866553222751,
+        "Number of wins": 6,
+        "Number of matches": 11
+    },
+    "Pizza": {
+        "Value": 1227.6776384354812,
+        "Number of wins": 7,
+        "Number of matches": 8
+    },
+    "Ezio Greggio": {
+        "Value": 1241.583049178443,
+        "Number of wins": 9,
+        "Number of matches": 9
+    },
+    "Rainbow": {
+        "Value": 1199.6626231466391,
+        "Number of wins": 4,
+        "Number of matches": 8
+    },
+    "Iphone": {
+        "Value": 1191.7079694297965,
+        "Number of wins": 3,
+        "Number of matches": 8
+    },
+    "Walker Texas Ranger": {
+        "Value": 1191.3934308631406,
+        "Number of wins": 4,
+        "Number of matches": 10
+    },
+    "Titanic": {
+        "Value": 1163.9443586899197,
+        "Number of wins": 2,
+        "Number of matches": 12
+    },
+    "Mountains": {
+        "Value": 1227.1965459007797,
+        "Number of wins": 7,
+        "Number of matches": 8
+    },
+    "Matrix": {
+        "Value": 1209.3966094106188,
+        "Number of wins": 5,
+        "Number of matches": 8
+    },
+    "Algebra": {
+        "Value": 1222.5055095748316,
+        "Number of wins": 7,
+        "Number of matches": 9
+    },
+    "International space station": {
+        "Value": 1237.2374199810397,
+        "Number of wins": 8,
+        "Number of matches": 8
+    },
+    "Mandolino": {
+        "Value": 1162.685001645602,
+        "Number of wins": 0,
+        "Number of matches": 8
+    },
+    "Music": {
+        "Value": 1228.4371277256412,
+        "Number of wins": 7,
+        "Number of matches": 8
+    },
+    "Football": {
+        "Value": 1213.4375253684511,
+        "Number of wins": 6,
+        "Number of matches": 9
+    },
+    "Festival di Sanremo": {
+        "Value": 1190.823407181497,
+        "Number of wins": 3,
+        "Number of matches": 8
+    },
+    "Mushrooms": {
+        "Value": 1181.2649652701057,
+        "Number of wins": 2,
+        "Number of matches": 8
+    },
+    "Mosquitoes": {
+        "Value": 1161.8844781119012,
+        "Number of wins": 0,
+        "Number of matches": 8
+    }
+}
