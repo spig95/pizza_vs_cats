@@ -1,0 +1,26 @@
+name: Linter (flake8)
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-linters:
+    name: Run linters
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Install Python dependencies
+        run: pip install flake8
+
+      - name: Run linters
+        uses: wearerequired/lint-action@v2
+        with:
+          flake8: true
